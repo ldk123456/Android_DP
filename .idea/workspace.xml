@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c960f5-5b9b-47e5-a7b1-53c16f02f5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/PowerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/PowerOffState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/PowerOnState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/TvController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/TvState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/AbstractHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/AbstractRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Handler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Handler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Handler3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Request1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Request2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Request3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/GroupLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/XiaoMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.XiaoMin">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter8.Client" />
       <module name="Android_DP" />
@@ -69,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Client" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.Client" />
       <module name="Android_DP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.*" />
+          <option name="PATTERN" value="Chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1.Test" />
-      <module name="Android_DP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TranficCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter7.TranficCalculator" />
       <module name="Android_DP" />
@@ -121,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XiaoMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.example.XiaoMin" />
+      <module name="Android_DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter9.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XiaoMin" />
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.TranficCalculator" />
         <item itemvalue="Application.PriceCalculator" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +156,8 @@
       <workItem from="1566010613841" duration="1817000" />
       <workItem from="1566012477034" duration="75000" />
       <workItem from="1566180991790" duration="2162000" />
-      <workItem from="1566209261559" duration="1320000" />
+      <workItem from="1566209261559" duration="1515000" />
+      <workItem from="1566218722063" duration="2383000" />
     </task>
     <servers />
   </component>
