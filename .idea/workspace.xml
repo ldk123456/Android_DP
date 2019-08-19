@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c960f5-5b9b-47e5-a7b1-53c16f02f5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/DomesticEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/IBrake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/IEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/ITire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/ImportEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/NormalBrake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/NormalTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Q3Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Q7Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/SUVTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/SeniorBrake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/BusStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/CalculateStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/PriceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/SubwayStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/TranficCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,13 +54,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.TranficCalculator">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6.Client" />
       <module name="Android_DP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.PriceCalculator" />
+      <module name="Android_DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,8 +94,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TranficCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.TranficCalculator" />
+      <module name="Android_DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TranficCalculator" />
+        <item itemvalue="Application.PriceCalculator" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Test" />
       </list>
@@ -107,7 +127,11 @@
       <option name="presentableId" value="Default" />
       <updated>1542422361764</updated>
       <workItem from="1566007434027" duration="206000" />
-      <workItem from="1566007663133" duration="2622000" />
+      <workItem from="1566007663133" duration="2831000" />
+      <workItem from="1566010524436" duration="57000" />
+      <workItem from="1566010613841" duration="1817000" />
+      <workItem from="1566012477034" duration="75000" />
+      <workItem from="1566180991790" duration="1789000" />
     </task>
     <servers />
   </component>
