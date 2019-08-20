@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c960f5-5b9b-47e5-a7b1-53c16f02f5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/AbstractHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/AbstractRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Handler1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Handler2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Handler3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Request1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Request2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Request3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/GroupLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/example/XiaoMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/AdditionExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/NumExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/OperatorExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/SubtractionExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XiaoMin">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter8.Client" />
       <module name="Android_DP" />
@@ -91,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriceCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.PriceCalculator" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter10.Client" />
       <module name="Android_DP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.*" />
+          <option name="PATTERN" value="Chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.XiaoMin" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.TranficCalculator" />
-        <item itemvalue="Application.PriceCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +149,8 @@
       <workItem from="1566012477034" duration="75000" />
       <workItem from="1566180991790" duration="2162000" />
       <workItem from="1566209261559" duration="1515000" />
-      <workItem from="1566218722063" duration="2383000" />
+      <workItem from="1566218722063" duration="2558000" />
+      <workItem from="1566306435981" duration="3074000" />
     </task>
     <servers />
   </component>
