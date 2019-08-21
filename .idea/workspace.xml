@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c960f5-5b9b-47e5-a7b1-53c16f02f5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/Buttons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/FallCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/LeftCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/RightCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/TetrisMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/TransformCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter12/Coder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter12/DevTechFrontier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter12/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +23,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1PX570nmMn1Di6OpCzop1w4TzSu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,20 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Player">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.Client" />
-      <module name="Android_DP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter9.Client" />
       <module name="Android_DP" />
@@ -112,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter12.Test" />
+      <module name="Android_DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="XiaoMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter9.example.XiaoMin" />
       <module name="Android_DP" />
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Player" />
-        <item itemvalue="Application.Client" />
         <item itemvalue="Application.XiaoMin" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Player" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <workItem from="1566209261559" duration="1515000" />
       <workItem from="1566218722063" duration="2558000" />
       <workItem from="1566306435981" duration="3230000" />
-      <workItem from="1566394130456" duration="1561000" />
+      <workItem from="1566394130456" duration="4179000" />
     </task>
     <servers />
   </component>
