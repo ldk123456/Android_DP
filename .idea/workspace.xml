@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c960f5-5b9b-47e5-a7b1-53c16f02f5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/AdditionExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/ArithmeticExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/NumExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/OperatorExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/SubtractionExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/Buttons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/FallCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/LeftCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/RightCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/TetrisMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/TransformCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +41,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542619887173" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -56,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Player">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter8.Client" />
       <module name="Android_DP" />
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TranficCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.TranficCalculator" />
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter11.Player" />
       <module name="Android_DP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.*" />
+          <option name="PATTERN" value="Chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Player" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.XiaoMin" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.TranficCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +153,8 @@
       <workItem from="1566180991790" duration="2162000" />
       <workItem from="1566209261559" duration="1515000" />
       <workItem from="1566218722063" duration="2558000" />
-      <workItem from="1566306435981" duration="3074000" />
+      <workItem from="1566306435981" duration="3230000" />
+      <workItem from="1566394130456" duration="1561000" />
     </task>
     <servers />
   </component>
