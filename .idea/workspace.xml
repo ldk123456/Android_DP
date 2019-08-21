@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="39c960f5-5b9b-47e5-a7b1-53c16f02f5f8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Chapter12/Coder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chapter12/DevTechFrontier.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chapter12/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="39c960f5-5b9b-47e5-a7b1-53c16f02f5f8" name="Default Changelist" comment="" />
+>>>>>>> remotes/origin/master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,11 +131,20 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+=======
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Player" />
+        <item itemvalue="Application.Client" />
+>>>>>>> remotes/origin/master
         <item itemvalue="Application.XiaoMin" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Player" />
         <item itemvalue="Application.Client (2)" />
+<<<<<<< HEAD
         <item itemvalue="Application.Client" />
+=======
+>>>>>>> remotes/origin/master
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +167,11 @@
       <workItem from="1566209261559" duration="1515000" />
       <workItem from="1566218722063" duration="2558000" />
       <workItem from="1566306435981" duration="3230000" />
+<<<<<<< HEAD
       <workItem from="1566394130456" duration="4179000" />
+=======
+      <workItem from="1566394130456" duration="3873000" />
+>>>>>>> remotes/origin/master
     </task>
     <servers />
   </component>
